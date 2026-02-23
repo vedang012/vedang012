@@ -616,11 +616,12 @@
     <!-- ─── FOOTER ────────────────────────────────────────────────── -->
     <footer class="border-t border-zinc-800/60 py-8 px-6">
       <div class="max-w-6xl mx-auto flex flex-col sm:flex-row items-center justify-between gap-4 text-zinc-600 text-xs font-mono">
-        <p>© 2025 Vedang Solaskar. All rights reserved.</p>
+        <p>© <span id="footer-year"></span> Vedang Solaskar. All rights reserved.</p>
         <p>Built with HTML · CSS · Tailwind · Vanilla JS</p>
       </div>
     </footer>
 
     <script src="js/main.js"></script>
+    <script>document.getElementById('footer-year').textContent = new Date().getFullYear();</script>
   </body>
 </html>
