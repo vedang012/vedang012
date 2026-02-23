@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Turning chai into code since 2020<br>📚 I'm currently learning backend in Spring Boot<br>🎯 Goals: Build things that make people say “wait, you made this?”<br>🎲 Fun fact: Chai is my primary fuel source<br>👨‍💻 My corner on the Internet: <a href="https://vedang.tech">vedang.tech</a></p>
+<p align="left">✨ Turning chai into code since 2020<br>📚 I'm currently learning backend in Spring Boot<br>🎯 Goals: Build things that make people say “wait, you made this?”<br>🎲 Fun fact: Chai is my primary fuel source<br>👨‍💻 My corner on the internet: <a href="https://vedang.tech">vedang.tech</a></p>
 
 ###
 
