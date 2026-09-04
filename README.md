@@ -39,7 +39,6 @@ It works
 ```text
 The entire point of life is to be so
 wildly passionate
-
 that people can't decide if you are
 crazy or a genius.
 ```
